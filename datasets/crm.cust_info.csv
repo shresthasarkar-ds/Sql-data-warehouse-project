@@ -95,7 +95,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 11093,AW00011093,Aimee,He,M,F,10/7/2025
 11094,AW00011094,Cedric,Ma,S,M,10/7/2025
 11095,AW00011095,Chad,Kumar,S,M,10/7/2025
-11096,AW00011096,Andr�,Anand,M,M,10/7/2025
+11096,AW00011096,Andrï¿½,Anand,M,M,10/7/2025
 11097,AW00011097,Edwin,Nara,M,M,10/7/2025
 11098,AW00011098,Mallory,Rubio,S,F,10/7/2025
 11099,AW00011099,Adam,Ross,M,M,10/7/2025
@@ -119,7 +119,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 11117,AW00011117,April,Deng,M,F,10/7/2025
 11118,AW00011118,Alvin,Zeng,S,M,10/7/2025
 11119,AW00011119,Evan,James,S,M,10/7/2025
-11120,AW00011120,Beth,Jim��,S,F,10/7/2025
+11120,AW00011120,Beth,Jimï¿½ï¿,S,F,10/7/2025
 11121,AW00011121,Orlando,Suarez,M,M,10/7/2025
 11122,AW00011122,Byron,Vazquez,M,M,10/7/2025
 11123,AW00011123,Philip,Alvarez,M,M,10/7/2025
@@ -252,7 +252,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 11250,AW00011250,Shannon,Liu,M,,10/8/2025
 11251,AW00011251,Xavier,Long,S,,10/8/2025
 11252,AW00011252,Nicholas,Thompson,S,,10/8/2025
-11253,AW00011253,Jos�,Hernandez,M,,10/8/2025
+11253,AW00011253,Josï¿,Hernandez,M,,10/8/2025
 11254,AW00011254,Johnathan,Vance,M,,10/8/2025
 11255,AW00011255,Colin,Lin,M,,10/8/2025
 11256,AW00011256,Katelyn,Hernandez,M,,10/8/2025
@@ -450,7 +450,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 11448,AW00011448,Kyle,Patterson,S,,10/8/2025
 11449,AW00011449,Alvin,Hu,M,,10/8/2025
 11450,AW00011450,Brett,Mehta,S,,10/8/2025
-11451,AW00011451,Ruben,Mu��,S,,10/8/2025
+11451,AW00011451,Ruben,Muï¿½ï,S,,10/8/2025
 11452,AW00011452,Erika,Rubio,S,,10/8/2025
 11453,AW00011453,Stanley,Malhotra,S,,10/8/2025
 11454,AW00011454,Melinda,Navarro,S,,10/8/2025
@@ -1388,7 +1388,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 12386,AW00012386,Katherine,Perry,S,,10/8/2025
 12387,AW00012387,Meredith,Vazquez,S,,10/8/2025
 12388,AW00012388,Casey,Kumar,S,,10/8/2025
-12389,AW00012389,Albert,Jim��,S,,10/8/2025
+12389,AW00012389,Albert,Jimï¿½ï¿,S,,10/8/2025
 12390,AW00012390,Denise,Martinez,S,,10/8/2025
 12391,AW00012391,Olivia,Kelly,S,,10/8/2025
 12392,AW00012392,Nichole,Nath,S,,10/8/2025
@@ -1526,7 +1526,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 12524,AW00012524,Kate,Shan,S,,10/8/2025
 12525,AW00012525,Chelsea,Rodriguez,M,,10/8/2025
 12526,AW00012526,Michele,Suarez,M,,10/8/2025
-12527,AW00012527,Jos�,Rodriguez,M,,10/8/2025
+12527,AW00012527,Josï¿,Rodriguez,M,,10/8/2025
 12528,AW00012528,Devin,Wilson,S,,10/8/2025
 12529,AW00012529,Isaiah,Allen,M,,10/8/2025
 12530,AW00012530,Isabel,Coleman,S,,10/8/2025
@@ -1990,7 +1990,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 12988,AW00012988,Barbara,Goel,S,,10/12/2025
 12989,AW00012989,Carly,Goel,M,,10/12/2025
 12990,AW00012990,Leslie,Hernandez,S,,10/12/2025
-12991,AW00012991,J��,Serrano,M,,10/12/2025
+12991,AW00012991,Jï¿½ï¿,Serrano,M,,10/12/2025
 12992,AW00012992,Ernest,Zeng,M,,10/12/2025
 12993,AW00012993,Xavier,Henderson,M,,10/12/2025
 12994,AW00012994,Anna,Martinez,S,,10/12/2025
@@ -2007,7 +2007,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13005,AW00013005,Desiree,Alvarez,M,,10/12/2025
 13006,AW00013006,Whitney,Rana,S,,10/12/2025
 13007,AW00013007,Brooke,Ward,S,,10/12/2025
-13008,AW00013008,Alberto,Mu��,M,,10/12/2025
+13008,AW00013008,Alberto,Muï¿½ï,M,,10/12/2025
 13009,AW00013009,Mindy,She,M,,10/12/2025
 13010,AW00013010,Erica,Ye,M,,10/12/2025
 13011,AW00013011,Anne,Ortega,S,,10/12/2025
@@ -2104,7 +2104,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13102,AW00013102,Mariah,Bryant,S,,10/12/2025
 13103,AW00013103,Brendan,Raji,S,,10/12/2025
 13104,AW00013104,Gregory,Becker,S,,10/12/2025
-13105,AW00013105,Whitney,Kov�,M,,10/12/2025
+13105,AW00013105,Whitney,Kovï¿½,M,,10/12/2025
 13106,AW00013106,Ebony,Munoz,M,,10/12/2025
 13107,AW00013107,Mary,Nelson,M,,10/12/2025
 13108,AW00013108,Curtis,Wang,M,,10/12/2025
@@ -2224,7 +2224,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13222,AW00013222,Arturo,Liu,M,,10/12/2025
 13223,AW00013223,Noah,Lee,S,,10/12/2025
 13224,AW00013224,Amanda,Brooks,M,,10/12/2025
-13225,AW00013225,J��,Suarez,M,,10/12/2025
+13225,AW00013225,Jï¿½ï¿,Suarez,M,,10/12/2025
 13226,AW00013226,Jenna,Mitchell,M,,10/12/2025
 13227,AW00013227,Alexander,Wilson,M,,10/12/2025
 13228,AW00013228,Thomas,Sanchez,M,,10/12/2025
@@ -2405,7 +2405,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13403,AW00013403,Jennifer,Jackson,S,,10/12/2025
 13404,AW00013404,Kelvin,Yang,M,,10/12/2025
 13405,AW00013405,Ethan,Bryant,M,,10/12/2025
-13406,AW00013406,Craig,Jim��,M,,10/12/2025
+13406,AW00013406,Craig,Jimï¿½ï¿,M,,10/12/2025
 13407,AW00013407,Cassandra,Rana,S,,10/12/2025
 13408,AW00013408,Katherine,Gonzales,M,,10/12/2025
 13409,AW00013409,Cory,Fernandez,M,,10/12/2025
@@ -2511,7 +2511,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13509,AW00013509,Lucas,Johnson,M,,10/12/2025
 13510,AW00013510,Jon,Shen,M,,10/12/2025
 13511,AW00013511,Ernest,Liu,S,,10/12/2025
-13512,AW00013512,Ken,S���,M,,10/12/2025
+13512,AW00013512,Ken,Sï¿½ï¿½ï,M,,10/12/2025
 13513,AW00013513,Abigail,Henderson,M,,10/12/2025
 13514,AW00013514,Lindsay,Luo,S,,10/12/2025
 13515,AW00013515,Cara,Liang,M,,10/12/2025
@@ -2696,7 +2696,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13694,AW00013694,Savannah,Gray,S,,10/12/2025
 13695,AW00013695,Christian,Clark,S,,10/12/2025
 13696,AW00013696,Katherine,Edwards,S,,10/12/2025
-13697,AW00013697,J��,Munoz,S,,10/12/2025
+13697,AW00013697,Jï¿½ï¿,Munoz,S,,10/12/2025
 13698,AW00013698,Catherine,Sanchez,S,,10/12/2025
 13699,AW00013699,Rachel,Alexander,S,,10/12/2025
 13700,AW00013700,Evan,Howard,S,,10/12/2025
@@ -2747,7 +2747,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 13745,AW00013745,Andrew,Robinson,M,,10/12/2025
 13746,AW00013746,Janelle,Madan,M,,10/12/2025
 13747,AW00013747,Brian,Torres,M,,10/12/2025
-13748,AW00013748,Jos�,Martinez,M,,10/12/2025
+13748,AW00013748,Josï¿,Martinez,M,,10/12/2025
 13749,AW00013749,Julio,Alonso,M,,10/12/2025
 13750,AW00013750,Raymond,Sai,M,,10/12/2025
 13751,AW00013751,Allison,Rivera,S,,10/12/2025
@@ -3206,7 +3206,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 14204,AW00014204,Chelsea,Sara,M,,10/12/2025
 14205,AW00014205,Wesley,Wu,S,,10/12/2025
 14206,AW00014206,Edwin,West,M,,10/12/2025
-14207,AW00014207,Jos�,Saraiva,M,,10/12/2025
+14207,AW00014207,Josï¿,Saraiva,M,,10/12/2025
 14208,AW00014208,Eugene,Xu,S,,10/12/2025
 14209,AW00014209,Craig,Ramos,M,,10/12/2025
 14210,AW00014210,Jenny,Tang,M,,10/12/2025
@@ -3392,7 +3392,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 14390,AW00014390,Logan,Kumar,M,,10/12/2025
 14391,AW00014391,Jason,Long,M,,10/12/2025
 14392,AW00014392,Justin,Jackson,M,,10/12/2025
-14393,AW00014393,Jos�,Perez,S,,10/12/2025
+14393,AW00014393,Josï¿,Perez,S,,10/12/2025
 14394,AW00014394,Jacob,Rodriguez,M,,10/12/2025
 14395,AW00014395,Devin,Reed,S,,10/12/2025
 14396,AW00014396,Zoe,Sanchez,S,,10/12/2025
@@ -3827,7 +3827,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 14825,AW00014825,Rebekah,Alonso,S,,10/12/2025
 14826,AW00014826,Stefanie,Lopez,M,,10/12/2025
 14827,AW00014827,Ernest,Xu,S,,10/12/2025
-14828,AW00014828,Hector,Mu��,S,,10/12/2025
+14828,AW00014828,Hector,Muï¿½ï,S,,10/12/2025
 14829,AW00014829,Gina,Vazquez,S,,10/12/2025
 14830,AW00014830,Isabella,Ward,M,,10/12/2025
 14831,AW00014831,Gilbert,Xie,M,,10/12/2025
@@ -4214,7 +4214,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 15212,AW00015212,Marcus,Henderson,M,,11/17/2025
 15213,AW00015213,Briana,Martin,M,,11/18/2025
 15214,AW00015214,Amanda,Jenkins,S,,11/19/2025
-15215,AW00015215,Alberto,Jim��,S,,11/20/2025
+15215,AW00015215,Alberto,Jimï¿½ï¿,S,,11/20/2025
 15216,AW00015216,Desiree,Gutierrez,M,,11/21/2025
 15217,AW00015217,Ethan,Jai,S,,11/22/2025
 15218,AW00015218,Willie,Johnsen,S,,11/23/2025
@@ -4429,7 +4429,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 15427,AW00015427,Jade,Murphy,S,,1/4/2026
 15428,AW00015428,Richard,Howard,M,,1/4/2026
 15429,AW00015429,Aaron,Li,M,,1/4/2026
-15430,AW00015430,Alfredo,Jim��,M,,1/4/2026
+15430,AW00015430,Alfredo,Jimï¿½ï¿,M,,1/4/2026
 15431,AW00015431,John,Jackson,M,,1/4/2026
 15432,AW00015432,Alvin,Kumar,S,,1/4/2026
 15433,AW00015433,Adam,Sharma,S,,1/4/2026
@@ -4669,7 +4669,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 15667,AW00015667,Hector,Ramos,M,M,1/4/2026
 15668,AW00015668,Erick,Fernandez,M,M,1/4/2026
 15669,AW00015669,Paul,Suurs,M,F,1/4/2026
-15670,AW00015670,Sergio,S���,M,M,1/4/2026
+15670,AW00015670,Sergio,Sï¿½ï¿½ï,M,M,1/4/2026
 15671,AW00015671,Lawrence,Torres,S,M,1/4/2026
 15672,AW00015672,Kelvin,Nara,S,M,1/4/2026
 15673,AW00015673,Jon,Goel,S,M,1/4/2026
@@ -4777,7 +4777,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 15775,AW00015775,Michelle,Ward,M,F,1/4/2026
 15776,AW00015776,Jesse,Mitchell,M,M,1/4/2026
 15777,AW00015777,Brianna,Smith,M,F,1/4/2026
-15778,AW00015778,Jos�,Miller,S,M,1/4/2026
+15778,AW00015778,Josï¿,Miller,S,M,1/4/2026
 15779,AW00015779,Jackson,Hayes,M,M,1/4/2026
 15780,AW00015780,Claudia,McDonald,M,F,1/4/2026
 15781,AW00015781,Blake,Evans,M,M,1/4/2026
@@ -5025,7 +5025,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16023,AW00016023,Willie,Zhang,S,M,1/4/2026
 16024,AW00016024,Isaac,Hill,M,M,1/4/2026
 16025,AW00016025,Jorge,Sun,M,M,1/4/2026
-16026,AW00016026,Byron,Jim��,M,M,1/4/2026
+16026,AW00016026,Byron,Jimï¿½ï¿,M,M,1/4/2026
 16027,AW00016027,Anne,Vazquez,M,F,1/4/2026
 16028,AW00016028,Cody,Cooper,M,M,1/4/2026
 16029,AW00016029,Abby,Patel,M,F,1/4/2026
@@ -5058,7 +5058,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16056,AW00016056,Alison,Shan,M,F,1/4/2026
 16057,AW00016057,Michele,Gomez,M,F,1/4/2026
 16058,AW00016058,Margaret,Zhang,M,F,1/4/2026
-16059,AW00016059,J��,Carlson,M,M,1/4/2026
+16059,AW00016059,Jï¿½ï¿,Carlson,M,M,1/4/2026
 16060,AW00016060,Antonio,Griffin,M,M,1/4/2026
 16061,AW00016061,Miguel,Butler,M,M,1/4/2026
 16062,AW00016062,Katherine,Johnson,M,F,1/4/2026
@@ -5115,7 +5115,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16113,AW00016113,Roger,Lal,S,M,1/4/2026
 16114,AW00016114,Gavin,Ross,M,M,1/4/2026
 16115,AW00016115,Jennifer,Diaz,S,F,1/4/2026
-16116,AW00016116,Bego�,Hurtado,S,M,1/4/2026
+16116,AW00016116,Begoï¿½,Hurtado,S,M,1/4/2026
 16117,AW00016117,Brad,Lal,M,M,1/4/2026
 16118,AW00016118,James,Wright,M,M,1/4/2026
 16119,AW00016119,Hailey,Watson,M,F,1/4/2026
@@ -5251,7 +5251,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16249,AW00016249,Jesse,Rivera,M,M,1/4/2026
 16250,AW00016250,Brendan,Raje,S,M,1/4/2026
 16251,AW00016251,Makayla,Howard,S,F,1/4/2026
-16252,AW00016252,Danny,Jim��,S,M,1/4/2026
+16252,AW00016252,Danny,Jimï¿½ï¿,S,M,1/4/2026
 16253,AW00016253,Bethany,Lal,S,F,1/4/2026
 16254,AW00016254,Maria,Morris,S,F,1/4/2026
 16255,AW00016255,Taylor,Russell,S,F,1/4/2026
@@ -5325,7 +5325,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16323,AW00016323,Dustin,Raje,S,M,1/4/2026
 16324,AW00016324,Juan,Romero,M,M,1/4/2026
 16325,AW00016325,Emma,Williams,S,F,1/4/2026
-16326,AW00016326,J��,Romero,S,M,1/4/2026
+16326,AW00016326,Jï¿½ï¿,Romero,S,M,1/4/2026
 16327,AW00016327,Darren,Diaz,S,M,1/4/2026
 16328,AW00016328,Maurice,Rai,S,M,1/4/2026
 16329,AW00016329,Jamie,Ye,S,F,1/4/2026
@@ -5436,7 +5436,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16434,AW00016434,Taylor,Bailey,M,F,1/4/2026
 16435,AW00016435,Steven,Cooper,M,M,1/4/2026
 16436,AW00016436,Ethan,Henderson,S,M,1/4/2026
-16437,AW00016437,J��,Gutierrez,S,M,1/4/2026
+16437,AW00016437,Jï¿½ï¿,Gutierrez,S,M,1/4/2026
 16438,AW00016438,Kaitlin,Arthur,M,F,1/4/2026
 16439,AW00016439,Dawn,Deng,S,F,1/4/2026
 16440,AW00016440,Jimmy,Martin,S,M,1/4/2026
@@ -5541,7 +5541,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16539,AW00016539,Christy,Li,S,F,1/4/2026
 16540,AW00016540,Theodore,Browning,M,M,1/4/2026
 16541,AW00016541,Micah,Hu,S,M,1/4/2026
-16542,AW00016542,J��,Ortega,M,M,1/4/2026
+16542,AW00016542,Jï¿½ï¿,Ortega,M,M,1/4/2026
 16543,AW00016543,Jenny,McDonald,M,F,1/4/2026
 16544,AW00016544,Eduardo,Morgan,M,M,1/4/2026
 16545,AW00016545,Alicia,Pal,M,F,1/4/2026
@@ -5598,7 +5598,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 16596,AW00016596,Gabrielle,Carter,S,F,1/4/2026
 16597,AW00016597,Kelli,Xu,S,F,1/4/2026
 16598,AW00016598,Kate,Rai,S,F,1/4/2026
-16599,AW00016599,Ram�,Cai,M,M,1/4/2026
+16599,AW00016599,Ramï¿½,Cai,M,M,1/4/2026
 16600,AW00016600,Janet,Suarez,S,F,1/4/2026
 16601,AW00016601,Tabitha,Rana,S,F,1/4/2026
 16602,AW00016602,Jill,Travers,M,F,1/4/2026
@@ -6086,7 +6086,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17084,AW00017084,Byron,Serrano,S,M,1/4/2026
 17085,AW00017085,Edwin,Deng,M,M,1/4/2026
 17086,AW00017086,Xavier,Anderson,S,M,1/4/2026
-17087,AW00017087,J��,Dominguez,M,M,1/4/2026
+17087,AW00017087,Jï¿½ï¿,Dominguez,M,M,1/4/2026
 17088,AW00017088,Wayne,Yuan,S,M,1/4/2026
 17089,AW00017089,Crystal,Zhu,M,F,1/4/2026
 17090,AW00017090,Leslie,Alvarez,S,F,1/4/2026
@@ -6105,7 +6105,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17103,AW00017103,Franklin,Xu,M,M,1/4/2026
 17104,AW00017104,Clifford,Rodriguez,S,M,1/4/2026
 17105,AW00017105,Madison,Walker,S,F,1/4/2026
-17106,AW00017106,Gina,Jim��,S,F,1/4/2026
+17106,AW00017106,Gina,Jimï¿½ï¿,S,F,1/4/2026
 17107,AW00017107,Priscilla,Yuan,S,F,1/4/2026
 17108,AW00017108,Susan,Xu,S,F,1/4/2026
 17109,AW00017109,Sydney,Wilson,S,F,1/4/2026
@@ -6197,7 +6197,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17195,AW00017195,Franklin,Sharma,M,M,1/4/2026
 17196,AW00017196,Douglas,Fernandez,S,M,1/4/2026
 17197,AW00017197,Mindy,Nara,S,F,1/4/2026
-17198,AW00017198,Cheryl,Jim��,S,F,1/4/2026
+17198,AW00017198,Cheryl,Jimï¿½ï¿,S,F,1/4/2026
 17199,AW00017199,Dennis,Zhou,M,M,1/4/2026
 17200,AW00017200,Russell,She,S,M,1/4/2026
 17201,AW00017201,Vincent,Yang,S,M,1/4/2026
@@ -6358,7 +6358,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17356,AW00017356,Mary,Evans,S,F,1/4/2026
 17357,AW00017357,Brandon,Miller,M,M,1/4/2026
 17358,AW00017358,Sydney,Bell,M,F,1/4/2026
-17359,AW00017359,Mar�,Flores,M,F,1/4/2026
+17359,AW00017359,Marï¿½,Flores,M,F,1/4/2026
 17360,AW00017360,Kyle,Lal,M,M,1/4/2026
 17361,AW00017361,Blake,Harris,M,M,1/4/2026
 17362,AW00017362,Miguel,Collins,M,M,1/4/2026
@@ -6654,7 +6654,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17652,AW00017652,Javier,Vazquez,M,M,1/4/2026
 17653,AW00017653,Linda,Vazquez,S,F,1/4/2026
 17654,AW00017654,Caroline,Alexander,S,F,1/4/2026
-17655,AW00017655,Angela,S���,S,F,1/4/2026
+17655,AW00017655,Angela,Sï¿½ï¿½ï,S,F,1/4/2026
 17656,AW00017656,Carol,Martinez,S,F,1/4/2026
 17657,AW00017657,Noah,Martin,M,M,1/4/2026
 17658,AW00017658,Jade,Howard,M,F,1/4/2026
@@ -6889,7 +6889,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 17887,AW00017887,Joel,Madan,M,M,1/4/2026
 17888,AW00017888,Mandy,Liu,S,F,1/4/2026
 17889,AW00017889,Blake,Taylor,M,M,1/4/2026
-17890,AW00017890,Derrick,Jim��,M,M,1/4/2026
+17890,AW00017890,Derrick,Jimï¿½ï¿,M,M,1/4/2026
 17891,AW00017891,Sharon,Lal,M,F,1/4/2026
 17892,AW00017892,Ronnie,Xu,M,M,1/4/2026
 17893,AW00017893,Omar,Rai,M,M,1/4/2026
@@ -8256,7 +8256,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19254,AW00019254,Anibal,Sousa,S,M,1/5/2026
 19255,AW00019255,Terrance,Sara,S,M,1/5/2026
 19256,AW00019256,Abigail,Griffin,M,F,1/5/2026
-19257,AW00019257,Dana,Jim��,M,F,1/5/2026
+19257,AW00019257,Dana,Jimï¿½ï¿,M,F,1/5/2026
 19258,AW00019258,Douglas,Mehta,M,M,1/5/2026
 19259,AW00019259,Barbara,Lin,M,F,1/5/2026
 19260,AW00019260,Latoya,Sharma,S,F,1/5/2026
@@ -8276,7 +8276,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19274,AW00019274,Karen,Yang,M,F,1/5/2026
 19275,AW00019275,Gregory,Rai,M,M,1/5/2026
 19276,AW00019276,Ruben,Sai,S,M,1/5/2026
-19277,AW00019277,Billy,Jim��,M,M,1/5/2026
+19277,AW00019277,Billy,Jimï¿½ï¿,M,M,1/5/2026
 19278,AW00019278,Willie,Sun,S,M,1/5/2026
 19279,AW00019279,Omar,Xu,S,M,1/5/2026
 19280,AW00019280,Darrell,Andersen,M,M,1/5/2026
@@ -8519,7 +8519,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19517,AW00019517,Max,Gomez,S,M,1/5/2026
 19518,AW00019518,Clifford,Arun,S,M,1/5/2026
 19519,AW00019519,Bianca,Zhu,S,F,1/5/2026
-19520,AW00019520,Kari,Mu��,M,F,1/5/2026
+19520,AW00019520,Kari,Muï¿½ï,M,F,1/5/2026
 19521,AW00019521,Jaime,Dominguez,S,F,1/5/2026
 19522,AW00019522,Christian,Powell,M,M,1/5/2026
 19523,AW00019523,Brittney,Holt,S,F,1/5/2026
@@ -8740,7 +8740,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19738,AW00019738,Henry,Martinez,M,M,1/5/2026
 19739,AW00019739,Lucas,Perry,M,M,1/5/2026
 19740,AW00019740,Connie,Liang,S,F,1/5/2026
-19741,AW00019741,Mar�,Rivera,S,F,1/5/2026
+19741,AW00019741,Marï¿½,Rivera,S,F,1/5/2026
 19742,AW00019742,Alexia,Russell,M,F,1/5/2026
 19743,AW00019743,Holly,Rana,S,F,1/5/2026
 19744,AW00019744,Tamara,Cai,M,F,1/5/2026
@@ -8905,7 +8905,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19903,AW00019903,Marcus,Nelson,S,M,1/5/2026
 19904,AW00019904,Jasmine,Gray,M,F,1/5/2026
 19905,AW00019905,Chelsea,Fernandez,S,F,1/5/2026
-19906,AW00019906,Armando,Mu��,M,M,1/5/2026
+19906,AW00019906,Armando,Muï¿½ï,M,M,1/5/2026
 19907,AW00019907,Bruce,Diaz,M,M,1/5/2026
 19908,AW00019908,Pamela,Prasad,S,F,1/5/2026
 19909,AW00019909,Geoffrey,Chandra,M,M,1/5/2026
@@ -8948,7 +8948,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 19946,AW00019946,Tamara,Raje,S,F,1/5/2026
 19947,AW00019947,Darryl,Liu,S,M,1/5/2026
 19948,AW00019948,Lacey,Hu,S,F,1/5/2026
-19949,AW00019949,Ni��,Anand,M,F,1/5/2026
+19949,AW00019949,Niï¿½ï,Anand,M,F,1/5/2026
 19950,AW00019950,Ronnie,Lu,M,M,1/5/2026
 19951,AW00019951,Roy,Moreno,S,M,1/5/2026
 19952,AW00019952,Adrienne,Martin,S,F,1/5/2026
@@ -9447,7 +9447,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 20445,AW00020445,Barbara,Deng,M,F,1/5/2026
 20446,AW00020446,Clayton,Rai,M,M,1/5/2026
 20447,AW00020447,Jodi,Goel,S,F,1/5/2026
-20448,AW00020448,J��,Blanco,M,M,1/5/2026
+20448,AW00020448,Jï¿½ï¿,Blanco,M,M,1/5/2026
 20449,AW00020449,Rachel,Walker,S,F,1/5/2026
 20450,AW00020450,Edwin,Tang,S,M,1/5/2026
 20451,AW00020451,Kelli,Anand,S,F,1/5/2026
@@ -9496,7 +9496,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 20494,AW00020494,Jesse,Peterson,M,M,1/5/2026
 20495,AW00020495,Wesley,Wang,M,M,1/5/2026
 20496,AW00020496,Jada,Roberts,M,F,1/5/2026
-20497,AW00020497,Francisco,Javier Castrej�,M,F,1/5/2026
+20497,AW00020497,Francisco,Javier Castrejï¿½,M,F,1/5/2026
 20498,AW00020498,Miguel,Phillips,M,M,1/5/2026
 20499,AW00020499,Christian,Robinson,S,M,1/5/2026
 20500,AW00020500,Morgan,Butler,M,F,1/5/2026
@@ -9730,7 +9730,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 20728,AW00020728,Cedric,Chande,S,M,1/5/2026
 20729,AW00020729,Aimee,Zhou,M,F,1/5/2026
 20730,AW00020730,Aaron,Shan,S,M,1/5/2026
-20731,AW00020731,Andre,Kov�,S,M,1/5/2026
+20731,AW00020731,Andre,Kovï¿½,S,M,1/5/2026
 20732,AW00020732,Joshua,Walker,S,M,1/5/2026
 20733,AW00020733,Sheena,Luo,S,F,1/5/2026
 20734,AW00020734,Luis,Phillips,M,M,1/5/2026
@@ -9840,7 +9840,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 20838,AW00020838,Chloe,Jones,S,F,1/5/2026
 20839,AW00020839,Courtney,Lopez,S,F,1/5/2026
 20840,AW00020840,Alison,Xie,S,F,1/5/2026
-20841,AW00020841,J��,Alonso,S,M,1/5/2026
+20841,AW00020841,Jï¿½ï¿,Alonso,S,M,1/5/2026
 20842,AW00020842,Tyrone,Moreno,S,M,1/5/2026
 20843,AW00020843,Jose,Shan,M,M,1/5/2026
 20844,AW00020844,Nicolas,Pal,M,M,1/5/2026
@@ -9981,7 +9981,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 20979,AW00020979,Diane,Jimenez,M,F,1/5/2026
 20980,AW00020980,Matthew,Miller,S,M,1/5/2026
 20981,AW00020981,Craig,Romero,M,M,1/5/2026
-20982,AW00020982,Arthur,Jim��,S,M,1/5/2026
+20982,AW00020982,Arthur,Jimï¿½ï¿,S,M,1/5/2026
 20983,AW00020983,Meredith,Vance,S,F,1/5/2026
 20984,AW00020984,Sabrina,Rubio,M,F,1/5/2026
 20985,AW00020985,Autumn,Liu,M,F,1/5/2026
@@ -10282,7 +10282,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 21280,AW00021280,Justin,Walker,S,M,1/5/2026
 21281,AW00021281,Andrea,Hill,S,F,1/5/2026
 21282,AW00021282,Julia,Smith,M,F,1/5/2026
-21283,AW00021283,Orlando,Jim��,M,M,1/5/2026
+21283,AW00021283,Orlando,Jimï¿½ï¿,M,M,1/5/2026
 21284,AW00021284,Cody,Stewart,M,M,1/5/2026
 21285,AW00021285,Mackenzie,Rivera,M,F,1/5/2026
 21286,AW00021286,Luke,Roy,S,M,1/5/2026
@@ -10569,7 +10569,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 21567,AW00021567,Candace,Sanchez,M,F,1/5/2026
 21568,AW00021568,Jacquelyn,Hernandez,M,F,1/5/2026
 21569,AW00021569,Brendan,Rai,S,M,1/5/2026
-21570,AW00021570,Barry,Kov�,M,M,1/5/2026
+21570,AW00021570,Barry,Kovï¿½,M,M,1/5/2026
 21571,AW00021571,Darryl,Yang,M,M,1/5/2026
 21572,AW00021572,Randall,Ramos,M,M,1/5/2026
 21573,AW00021573,Jimmy,Munoz,S,M,1/5/2026
@@ -10661,7 +10661,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 21659,AW00021659,Gabrielle,Jenkins,M,F,1/5/2026
 21660,AW00021660,Allison,Watson,M,F,1/5/2026
 21661,AW00021661,Terry,Champion,S,M,1/5/2026
-21662,AW00021662,Orlando,Mu��,S,M,1/5/2026
+21662,AW00021662,Orlando,Muï¿½ï,S,M,1/5/2026
 21663,AW00021663,Kenneth,Goel,S,M,1/5/2026
 21664,AW00021664,Edwin,Yuan,S,M,1/5/2026
 21665,AW00021665,Karl,Jai,S,M,1/5/2026
@@ -10672,7 +10672,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 21670,AW00021670,Benjamin,Lal,S,M,1/5/2026
 21671,AW00021671,Nicolas,Jai,S,M,1/5/2026
 21672,AW00021672,Craig,Gomez,S,M,1/5/2026
-21673,AW00021673,J��,Gill,S,M,1/5/2026
+21673,AW00021673,Jï¿½ï¿,Gill,S,M,1/5/2026
 21674,AW00021674,Jada,Morris,M,F,1/5/2026
 21675,AW00021675,Adriana,Rana,S,F,1/5/2026
 21676,AW00021676,Valerie,Guo,S,F,1/5/2026
@@ -10943,7 +10943,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 21941,AW00021941,Gail,Moore,S,F,1/5/2026
 21942,AW00021942,Julia,Roberts,M,F,1/5/2026
 21943,AW00021943,Cindy,Mehta,S,F,1/5/2026
-21944,AW00021944,Daisy,Jim��,M,F,1/5/2026
+21944,AW00021944,Daisy,Jimï¿½ï¿,M,F,1/5/2026
 21945,AW00021945,Pearlie,Rusek,S,F,1/5/2026
 21946,AW00021946,Michele,Deng,M,F,1/5/2026
 21947,AW00021947,Diane,Romero,M,F,1/5/2026
@@ -11437,7 +11437,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 22435,AW00022435,Ross,Navarro,S,M,1/5/2026
 22436,AW00022436,Roger,Raji,S,M,1/5/2026
 22437,AW00022437,Trisha,Zheng,S,F,1/5/2026
-22438,AW00022438,Casey,Jim��,S,M,1/5/2026
+22438,AW00022438,Casey,Jimï¿½ï¿,S,M,1/5/2026
 22439,AW00022439,Tracy,Raji,M,F,1/5/2026
 22440,AW00022440,Robyn,Sanz,S,F,1/5/2026
 22441,AW00022441,Andrea,Torres,S,F,1/5/2026
@@ -11686,7 +11686,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 22684,AW00022684,Lauren,Cooper,M,F,1/5/2026
 22685,AW00022685,Barbara,Ma,S,F,1/5/2026
 22686,AW00022686,Wayne,Anand,S,M,1/5/2026
-22687,AW00022687,Javier,Jim��,M,M,1/5/2026
+22687,AW00022687,Javier,Jimï¿½ï¿,M,M,1/5/2026
 22688,AW00022688,Seth,Perez,S,M,1/5/2026
 22689,AW00022689,Gilbert,Zheng,S,M,1/5/2026
 22690,AW00022690,Kurt,Luo,M,M,1/5/2026
@@ -12210,7 +12210,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 23208,AW00023208,Janet,Watson,S,F,1/5/2026
 23209,AW00023209,Lucas,Lewis,S,M,1/5/2026
 23210,AW00023210,Timothy,Gray,M,M,1/5/2026
-23211,AW00023211,Rebekah,Kov�,M,F,1/5/2026
+23211,AW00023211,Rebekah,Kovï¿½,M,F,1/5/2026
 23212,AW00023212,James,Jones,S,M,1/5/2026
 23213,AW00023213,Noah,Green,S,M,1/5/2026
 23214,AW00023214,Kaylee,James,M,F,1/5/2026
@@ -12432,7 +12432,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 23430,AW00023430,Savannah,Turner,S,F,1/5/2026
 23431,AW00023431,Margaret,Guo,M,F,1/5/2026
 23432,AW00023432,Jordan,Roberts,S,M,1/5/2026
-23433,AW00023433,Pedro,Mu��,S,M,1/5/2026
+23433,AW00023433,Pedro,Muï¿½ï,S,M,1/5/2026
 23434,AW00023434,Katie,Nath,S,F,1/5/2026
 23435,AW00023435,Rosa,Chen,S,F,1/5/2026
 23436,AW00023436,Tanya,Munoz,S,F,1/5/2026
@@ -12639,7 +12639,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 23637,AW00023637,Yolanda,Jai,M,F,1/5/2026
 23638,AW00023638,Nelson,Ruiz,M,M,1/5/2026
 23639,AW00023639,Christy,Guo,M,F,1/5/2026
-23640,AW00023640,Bruce,Jim��,M,M,1/5/2026
+23640,AW00023640,Bruce,Jimï¿½ï¿,M,M,1/5/2026
 23641,AW00023641,Megan,Morris,M,F,1/5/2026
 23642,AW00023642,Anne,Gutierrez,M,F,1/5/2026
 23643,AW00023643,Erica,Zheng,S,F,1/5/2026
@@ -12931,7 +12931,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 23929,AW00023929,Kristin,Xie,M,F,1/5/2026
 23930,AW00023930,Meagan,Arun,M,F,1/5/2026
 23931,AW00023931,Reginald,Ruiz,M,M,1/5/2026
-23932,AW00023932,Carrie,Jim��,M,F,1/5/2026
+23932,AW00023932,Carrie,Jimï¿½ï¿,M,F,1/5/2026
 23933,AW00023933,Sabrina,Carlson,S,F,1/5/2026
 23934,AW00023934,Bonnie,Andersen,S,F,1/5/2026
 23935,AW00023935,Alexis,Barnes,S,F,1/5/2026
@@ -12987,7 +12987,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 23985,AW00023985,Janet,Torres,M,F,1/5/2026
 23986,AW00023986,Tanya,Torres,M,F,1/5/2026
 23987,AW00023987,Dawn,Sharma,M,F,1/5/2026
-23988,AW00023988,Cesar,S���,M,M,1/5/2026
+23988,AW00023988,Cesar,Sï¿½ï¿½ï,M,M,1/5/2026
 23989,AW00023989,Damien,Beck,S,M,1/5/2026
 23990,AW00023990,Claudia,Huang,S,F,1/5/2026
 23991,AW00023991,Todd,Zhao,M,M,1/5/2026
@@ -13003,7 +13003,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24001,AW00024001,Arthur,Raman,S,M,1/5/2026
 24002,AW00024002,Thomas,Harris,M,M,1/5/2026
 24003,AW00024003,Warren,Kumar,S,M,1/5/2026
-24004,AW00024004,C��,Raman,M,M,1/5/2026
+24004,AW00024004,Cï¿½ï¿,Raman,M,M,1/5/2026
 24005,AW00024005,Julio,Jimenez,S,M,1/5/2026
 24006,AW00024006,Peter,Deng,S,M,1/5/2026
 24007,AW00024007,Randy,Huang,S,M,1/5/2026
@@ -13013,7 +13013,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24011,AW00024011,Morgan,Thompson,S,F,1/5/2026
 24012,AW00024012,James,Lewis,S,M,1/5/2026
 24013,AW00024013,Jay,Ruiz,M,M,1/5/2026
-24014,AW00024014,Geoffrey,Kov�,M,M,1/5/2026
+24014,AW00024014,Geoffrey,Kovï¿½,M,M,1/5/2026
 24015,AW00024015,Jenna,Hall,S,F,1/5/2026
 24016,AW00024016,Karla,Sharma,S,F,1/5/2026
 24017,AW00024017,Rebekah,Lopez,S,F,1/5/2026
@@ -13266,7 +13266,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24264,AW00024264,Richard,Long,S,M,1/5/2026
 24265,AW00024265,Seth,McDonald,M,M,1/5/2026
 24266,AW00024266,Melvin,Chander,M,M,1/5/2026
-24267,AW00024267,J��,Hernandez,M,M,1/5/2026
+24267,AW00024267,Jï¿½ï¿,Hernandez,M,M,1/5/2026
 24268,AW00024268,Meredith,Gill,M,F,1/5/2026
 24269,AW00024269,Todd,Lu,M,M,1/5/2026
 24270,AW00024270,Latasha,Ortega,M,F,1/5/2026
@@ -13276,7 +13276,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24274,AW00024274,Shaun,Shan,M,M,1/5/2026
 24275,AW00024275,Lucas,Rivera,M,M,1/5/2026
 24276,AW00024276,Kaitlyn,Nelson,S,F,1/5/2026
-24277,AW00024277,Donald,Kov�,S,M,1/5/2026
+24277,AW00024277,Donald,Kovï¿½,S,M,1/5/2026
 24278,AW00024278,Cedric,Xu,M,M,1/5/2026
 24279,AW00024279,Angel,Nelson,S,M,1/5/2026
 24280,AW00024280,Peter,Shan,S,M,1/5/2026
@@ -13377,7 +13377,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24375,AW00024375,Pamela,Schmidt,M,F,1/5/2026
 24376,AW00024376,Tommy,Black,M,M,1/5/2026
 24377,AW00024377,Richard,Wood,S,M,1/5/2026
-24378,AW00024378,Brandi,Jim��,S,F,1/5/2026
+24378,AW00024378,Brandi,Jimï¿½ï¿,S,F,1/5/2026
 24379,AW00024379,Noah,Jenkins,S,M,1/5/2026
 24380,AW00024380,Maurice,Yuan,M,M,1/5/2026
 24381,AW00024381,Danny,Serrano,S,M,1/5/2026
@@ -13478,7 +13478,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24476,AW00024476,Jared,Brooks,M,M,1/5/2026
 24477,AW00024477,Warren,Zeng,S,M,1/5/2026
 24478,AW00024478,Lindsay,Sharma,S,F,1/5/2026
-24479,AW00024479,Desir�,Moreno,S,F,1/5/2026
+24479,AW00024479,Desirï¿½,Moreno,S,F,1/5/2026
 24480,AW00024480,Kelli,Liu,S,F,1/5/2026
 24481,AW00024481,Dennis,Sun,M,M,1/5/2026
 24482,AW00024482,Roy,Ramos,M,M,1/5/2026
@@ -13505,13 +13505,13 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 24503,AW00024503,Laura,Ma,M,F,1/5/2026
 24504,AW00024504,Eddie,Navarro,M,M,1/5/2026
 24505,AW00024505,Clifford,Gonzalez,M,M,1/5/2026
-24506,AW00024506,Jaime,Mu��,M,F,1/5/2026
+24506,AW00024506,Jaime,Muï¿½ï,M,F,1/5/2026
 24507,AW00024507,Madison,Garcia,S,F,1/5/2026
 24508,AW00024508,Alex,Phillips,S,M,1/5/2026
 24509,AW00024509,Emma,Long,S,F,1/5/2026
 24510,AW00024510,Christian,Martinez,M,M,1/5/2026
 24511,AW00024511,Logan,Hall,S,M,1/5/2026
-24512,AW00024512,Adrienne,Jim��,S,F,1/5/2026
+24512,AW00024512,Adrienne,Jimï¿½ï¿,S,F,1/5/2026
 24513,AW00024513,Alejandro,Deng,M,M,1/5/2026
 24514,AW00024514,Jesse,Phillips,M,M,1/5/2026
 24515,AW00024515,Ian,Jones,S,M,1/5/2026
@@ -14398,12 +14398,12 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25396,AW00025396,Xavier,Ramirez,S,M,1/5/2026
 25397,AW00025397,Lucas,Bradley,M,M,1/5/2026
 25398,AW00025398,Thomas,Jones,S,M,1/5/2026
-25399,AW00025399,Jorge,Leit�,M,M,1/5/2026
+25399,AW00025399,Jorge,Leitï¿½,M,M,1/5/2026
 25400,AW00025400,Kyle,Jai,M,M,1/5/2026
 25401,AW00025401,Gabriel,Young,M,M,1/5/2026
 25402,AW00025402,Maria,Hughes,M,F,1/5/2026
 25403,AW00025403,Jasmine,Clark,S,F,1/5/2026
-25404,AW00025404,Jos�,Lopez,S,M,1/5/2026
+25404,AW00025404,Josï¿,Lopez,S,M,1/5/2026
 25405,AW00025405,Brandon,Wagner,M,M,1/5/2026
 25406,AW00025406,Casey,Andersen,M,F,1/5/2026
 25407,AW00025407,Tony,Anand,S,M,1/5/2026
@@ -14537,7 +14537,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25535,AW00025535,Brandi,Navarro,S,F,1/5/2026
 25536,AW00025536,Rebekah,Sai,S,F,1/5/2026
 25537,AW00025537,Nathan,Phillips,S,M,1/5/2026
-25538,AW00025538,Andy,Jim��,S,M,1/5/2026
+25538,AW00025538,Andy,Jimï¿½ï¿,S,M,1/5/2026
 25539,AW00025539,Mathew,Ortega,M,M,1/5/2026
 25540,AW00025540,Rodney,Alonso,M,M,1/5/2026
 25541,AW00025541,Gary,Hernandez,M,M,1/5/2026
@@ -14568,7 +14568,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25566,AW00025566,Kristine,Navarro,M,F,1/5/2026
 25567,AW00025567,Dennis,Zheng,S,M,1/5/2026
 25568,AW00025568,Christy,Wu,M,F,1/5/2026
-25569,AW00025569,J��,Alvarez,S,M,1/5/2026
+25569,AW00025569,Jï¿½ï¿,Alvarez,S,M,1/5/2026
 25570,AW00025570,Robyn,Torres,S,F,1/5/2026
 25571,AW00025571,Richard,Lopez,S,M,1/5/2026
 25572,AW00025572,Allen,Gonzalez,S,M,1/5/2026
@@ -14604,7 +14604,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25602,AW00025602,Jermaine,Sara,S,M,1/5/2026
 25603,AW00025603,Dawn,Guo,S,F,1/5/2026
 25604,AW00025604,Martin,Vance,S,M,1/5/2026
-25605,AW00025605,Abby,Kov�,S,F,1/5/2026
+25605,AW00025605,Abby,Kovï¿½,S,F,1/5/2026
 25606,AW00025606,Meredith,Fernandez,S,F,1/5/2026
 25607,AW00025607,Sharon,Chander,S,F,1/5/2026
 25608,AW00025608,Sandra,Zeng,S,F,1/5/2026
@@ -14615,7 +14615,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25613,AW00025613,Erik,Ruiz,M,M,1/5/2026
 25614,AW00025614,Deanna,Subram,M,F,1/5/2026
 25615,AW00025615,Destiny,Hall,M,F,1/5/2026
-25616,AW00025616,J��,Rubio,M,M,1/5/2026
+25616,AW00025616,Jï¿½ï¿,Rubio,M,M,1/5/2026
 25617,AW00025617,Leonard,Shan,M,M,1/5/2026
 25618,AW00025618,Albert,Hernandez,M,M,1/5/2026
 25619,AW00025619,Rafael,Raji,M,M,1/5/2026
@@ -14987,7 +14987,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 25985,AW00025985,Justin,Harris,M,M,1/14/2026
 25986,AW00025986,Isabel,Bryant,M,F,1/14/2026
 25987,AW00025987,Hunter,Kumar,M,M,1/14/2026
-25988,AW00025988,Victor,Mu��,S,M,1/14/2026
+25988,AW00025988,Victor,Muï¿½ï,S,M,1/14/2026
 25989,AW00025989,Jeremy,Price,M,M,1/14/2026
 25990,AW00025990,Jenna,Parker,S,F,1/14/2026
 25991,AW00025991,Arianna,Hayes,M,F,1/14/2026
@@ -15384,7 +15384,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 26382,AW00026382,Dale,Xu,S,M,1/14/2026
 26383,AW00026383,Ronnie,Hu,S,M,1/14/2026
 26384,AW00026384,Jon,Zhu,M,M,1/14/2026
-26385,AW00026385,Javier,Mu��,S,M,1/14/2026
+26385,AW00026385,Javier,Muï¿½ï,S,M,1/14/2026
 26386,AW00026386,Kelli,Zhao,S,F,1/14/2026
 26387,AW00026387,Dalton,Roberts,S,M,1/14/2026
 26388,AW00026388,Wayne,Jai,M,M,1/14/2026
@@ -15445,7 +15445,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 26443,AW00026443,Kathryn,She,M,F,1/14/2026
 26444,AW00026444,Pamela,Lopez,S,F,1/14/2026
 26445,AW00026445,Aidan,Foster,S,M,1/14/2026
-26446,AW00026446,Jamie,Mu��,S,M,1/14/2026
+26446,AW00026446,Jamie,Muï¿½ï,S,M,1/14/2026
 26447,AW00026447,Noah,Russell,S,M,1/14/2026
 26448,AW00026448,Kara,Yuan,M,F,1/14/2026
 26449,AW00026449,Jared,Gray,M,M,1/14/2026
@@ -15664,7 +15664,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 26662,AW00026662,Lori,Alvarez,S,F,1/14/2026
 26663,AW00026663,Joanna,Serrano,S,F,1/14/2026
 26664,AW00026664,Amy,Zhu,M,F,1/14/2026
-26665,AW00026665,J��,Vazquez,S,M,1/14/2026
+26665,AW00026665,Jï¿½ï¿,Vazquez,S,M,1/14/2026
 26666,AW00026666,Ashlee,Beck,S,F,1/14/2026
 26667,AW00026667,Jillian,Patel,S,F,1/14/2026
 26668,AW00026668,Toni,Madan,M,F,1/14/2026
@@ -15840,7 +15840,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 26838,AW00026838,Cassie,Shan,S,F,1/14/2026
 26839,AW00026839,Jeremy,Nelson,S,M,1/14/2026
 26840,AW00026840,Eric,Yang,M,M,1/14/2026
-26841,AW00026841,Roberto,Jim��,M,M,1/14/2026
+26841,AW00026841,Roberto,Jimï¿½ï¿,M,M,1/14/2026
 26842,AW00026842,Felicia,Alonso,M,F,1/14/2026
 26843,AW00026843,Noah,Gonzalez,S,M,1/14/2026
 26844,AW00026844,Erin,Cooper,S,F,1/14/2026
@@ -15981,10 +15981,10 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 26979,AW00026979,Christy,Jai,M,F,1/14/2026
 26980,AW00026980,Marc,Suarez,M,M,1/14/2026
 26981,AW00026981,Audrey,Suarez,S,F,1/14/2026
-26982,AW00026982,Jose,Mu��,S,M,1/14/2026
+26982,AW00026982,Jose,Muï¿½ï,S,M,1/14/2026
 26983,AW00026983,Adriana,Vance,M,F,1/14/2026
 26984,AW00026984,Manuel,Prasad,M,M,1/14/2026
-26985,AW00026985,J��,Diaz,M,M,1/14/2026
+26985,AW00026985,Jï¿½ï¿,Diaz,M,M,1/14/2026
 26986,AW00026986,Riley,Watson,M,F,1/14/2026
 26987,AW00026987,Roy,Lopez,M,M,1/14/2026
 26988,AW00026988,Brandy,Srini,M,F,1/14/2026
@@ -16011,7 +16011,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 27009,AW00027009,Erica,Lu,S,F,1/14/2026
 27010,AW00027010,Jordyn,Patterson,M,F,1/14/2026
 27011,AW00027011,Kevin,Powell,M,M,1/14/2026
-27012,AW00027012,Anne,Jim��,S,F,1/14/2026
+27012,AW00027012,Anne,Jimï¿½ï¿,S,F,1/14/2026
 27013,AW00027013,Alisha,Yuan,M,F,1/14/2026
 27014,AW00027014,Luke,Hughes,M,M,1/14/2026
 27015,AW00027015,Jessica,Torres,S,F,1/14/2026
@@ -16537,7 +16537,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 27535,AW00027535,Ian,Cook,S,M,1/14/2026
 27536,AW00027536,Victoria,Wilson,M,F,1/14/2026
 27537,AW00027537,Amanda,Bryant,M,F,1/14/2026
-27538,AW00027538,Jos�,Jackson,M,M,1/14/2026
+27538,AW00027538,Josï¿,Jackson,M,M,1/14/2026
 27539,AW00027539,Samuel,Winston,S,M,1/14/2026
 27540,AW00027540,Jacqueline,Butler,S,F,1/14/2026
 27541,AW00027541,Samantha,Martin,S,F,1/14/2026
@@ -16857,7 +16857,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 27855,AW00027855,Lisa,Ye,S,F,1/25/2026
 27856,AW00027856,Bonnie,Tang,M,F,1/25/2026
 27857,AW00027857,Brandi,Munoz,S,F,1/25/2026
-27858,AW00027858,Anders,Skj��,S,F,1/25/2026
+27858,AW00027858,Anders,Skjï¿½ï¿,S,F,1/25/2026
 27859,AW00027859,Danny,Carlson,M,M,1/25/2026
 27860,AW00027860,Hector,Martin,M,M,1/25/2026
 27861,AW00027861,Karen,He,S,F,1/25/2026
@@ -16892,7 +16892,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 27890,AW00027890,Kyle,Evans,S,M,1/25/2026
 27891,AW00027891,Carlos,Howard,M,M,1/25/2026
 27892,AW00027892,Isabella,Foster,M,F,1/25/2026
-27893,AW00027893,Clinton,Jim��,S,M,1/25/2026
+27893,AW00027893,Clinton,Jimï¿½ï¿,S,M,1/25/2026
 27894,AW00027894,Gerald,Sai,S,M,1/25/2026
 27895,AW00027895,Colin,Pal,S,M,1/25/2026
 27896,AW00027896,Orlando,Torres,M,M,1/25/2026
@@ -17114,10 +17114,10 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28112,AW00028112,Savannah,Evans,M,F,1/25/2026
 28113,AW00028113,Amanda,Powell,S,F,1/25/2026
 28114,AW00028114,Jared,Cox,S,M,1/25/2026
-28115,AW00028115,Deanna,Jim��,M,F,1/25/2026
+28115,AW00028115,Deanna,Jimï¿½ï¿,M,F,1/25/2026
 28116,AW00028116,Sabrina,Dominguez,S,F,1/25/2026
 28117,AW00028117,Craig,Vazquez,S,M,1/25/2026
-28118,AW00028118,Briana,Jim��,M,F,1/25/2026
+28118,AW00028118,Briana,Jimï¿½ï¿,M,F,1/25/2026
 28119,AW00028119,Curtis,Ma,S,M,1/25/2026
 28120,AW00028120,Pedro,Alvarez,S,M,1/25/2026
 28121,AW00028121,Julia,Robinson,M,F,1/25/2026
@@ -17323,7 +17323,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28321,AW00028321,Arturo,Wu,M,M,1/25/2026
 28322,AW00028322,Willie,Chen,S,M,1/25/2026
 28323,AW00028323,Nathan,Moore,S,M,1/25/2026
-28324,AW00028324,J��,Martin,M,M,1/25/2026
+28324,AW00028324,Jï¿½ï¿,Martin,M,M,1/25/2026
 28325,AW00028325,Drew,Lal,S,M,1/25/2026
 28326,AW00028326,Carla,Lopez,S,F,1/25/2026
 28327,AW00028327,Tabitha,Serrano,S,F,1/25/2026
@@ -17458,7 +17458,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28456,AW00028456,Todd,Xu,M,,1/25/2026
 28457,AW00028457,Bruce,Gonzalez,S,,1/25/2026
 28458,AW00028458,Casey,She,S,,1/25/2026
-28459,AW00028459,Dana,Mu��,M,,1/25/2026
+28459,AW00028459,Dana,Muï¿½ï,M,,1/25/2026
 28460,AW00028460,Nathan,Powell,M,,1/25/2026
 28461,AW00028461,Joe,Dominguez,M,,1/25/2026
 28462,AW00028462,Kendra,Serrano,M,,1/25/2026
@@ -17518,7 +17518,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28516,AW00028516,Vincent,Lin,S,M,1/25/2026
 28517,AW00028517,Troy,Gonzalez,S,M,1/25/2026
 28518,AW00028518,Tammy,Sanchez,S,F,1/25/2026
-28519,AW00028519,J��,Ramos,M,M,1/25/2026
+28519,AW00028519,Jï¿½ï¿,Ramos,M,M,1/25/2026
 28520,AW00028520,Susan,Liang,M,F,1/25/2026
 28521,AW00028521,Bradley,Tang,S,M,1/25/2026
 28522,AW00028522,Rosa,Ma,M,F,1/25/2026
@@ -17919,7 +17919,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28917,AW00028917,Sandra,Zhou,S,F,1/25/2026
 28918,AW00028918,Gina,Blanco,M,F,1/25/2026
 28919,AW00028919,Krystal,Wagner,M,F,1/25/2026
-28920,AW00028920,Ren�,Alvarez,S,F,1/25/2026
+28920,AW00028920,Renï¿½,Alvarez,S,F,1/25/2026
 28921,AW00028921,Corey,Deng,M,M,1/25/2026
 28922,AW00028922,Brent,Ye,M,M,1/25/2026
 28923,AW00028923,Roberto,Hernandez,S,M,1/25/2026
@@ -17930,7 +17930,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 28928,AW00028928,Margaret,Wu,S,F,1/25/2026
 28929,AW00028929,Marie,Fernandez,S,F,1/25/2026
 28930,AW00028930,Jarrod,Kapoor,M,M,1/25/2026
-28931,AW00028931,Darren,Jim��,M,M,1/25/2026
+28931,AW00028931,Darren,Jimï¿½ï¿,M,M,1/25/2026
 28932,AW00028932,Marshall,Ashe,M,M,1/25/2026
 28933,AW00028933,Colleen,Rai,M,F,1/25/2026
 28934,AW00028934,Ricardo,Nara,M,M,1/25/2026
@@ -18112,7 +18112,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 29110,AW00029110,Sydney,Smith,S,F,1/25/2026
 29111,AW00029111,Dale,Anand,S,M,1/25/2026
 29112,AW00029112,Edward,Powell,S,M,1/25/2026
-29113,AW00029113,Al��,Anand,S,F,1/25/2026
+29113,AW00029113,Alï¿½ï¿,Anand,S,F,1/25/2026
 29114,AW00029114,Levi,Raman,M,M,1/25/2026
 29115,AW00029115,Jacquelyn,Munoz,M,F,1/25/2026
 29116,AW00029116,Janelle,Patel,M,F,1/25/2026
@@ -18312,7 +18312,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 29310,AW00029310,Armando,Gutierrez,S,M,1/25/2026
 29311,AW00029311,Marie,Carlson,S,F,1/25/2026
 29312,AW00029312,Colleen,She,S,F,1/25/2026
-29313,AW00029313,J��,Sanz,M,M,1/25/2026
+29313,AW00029313,Jï¿½ï¿,Sanz,M,M,1/25/2026
 29314,AW00029314,Meredith,Malhotra,M,F,1/25/2026
 29315,AW00029315,Jill,Gomez,M,F,1/25/2026
 29316,AW00029316,Max,Romero,S,M,1/25/2026
@@ -18400,7 +18400,7 @@ cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create
 29398,AW00029398,Bruce,Suri,S,M,1/25/2026
 29399,AW00029399,Janet,Gomez,S,F,1/25/2026
 29400,AW00029400,Marvin,Browning,M,M,1/25/2026
-29401,AW00029401,J��,Gomez,M,M,1/25/2026
+29401,AW00029401,Jï¿½ï¿,Gomez,M,M,1/25/2026
 29402,AW00029402,Damien,Andersen,S,M,1/25/2026
 29403,AW00029403,Erik,Romero,M,M,1/25/2026
 29404,AW00029404,Chloe,Ross,S,F,1/25/2026
